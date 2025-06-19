@@ -27,7 +27,4 @@ You can play the game here: [Link to demo if hosted online]
 - **CSS3** — Styling and layout
 - **JavaScript (Vanilla)** — Game logic and interactivity
 
----
-
-## 📁 Folder Structure
 
