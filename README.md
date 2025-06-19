@@ -12,14 +12,7 @@ A simple and responsive **Tic Tac Toe** game built using **HTML**, **CSS**, and 
 - Minimal and clean UI
 - Fully responsive for desktop and mobile devices
 
----
 
-## 🚀 Live Demo
-
-You can play the game here: [Link to demo if hosted online]  
-*(e.g., GitHub Pages, Netlify, Vercel)*
-
----
 
 ## 🛠️ Technologies Used
 
